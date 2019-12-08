@@ -1,0 +1,8 @@
+C:\Users\murat\source\repos\ButtonDesign\ButtonDesign\bin\Debug\ButtonDesign.dll
+C:\Users\murat\source\repos\ButtonDesign\ButtonDesign\bin\Debug\ButtonDesign.pdb
+C:\Users\murat\source\repos\ButtonDesign\ButtonDesign\obj\Debug\ButtonDesign.csprojAssemblyReference.cache
+C:\Users\murat\source\repos\ButtonDesign\ButtonDesign\obj\Debug\ButtonDesign.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\ButtonDesign\ButtonDesign\obj\Debug\ButtonDesign.dll
+C:\Users\murat\source\repos\ButtonDesign\ButtonDesign\obj\Debug\ButtonDesign.pdb
+C:\Users\murat\source\repos\ButtonDesign\ButtonDesign\obj\Debug\ButtonDesign.UserControl1.resources
+C:\Users\murat\source\repos\ButtonDesign\ButtonDesign\obj\Debug\ButtonDesign.csproj.GenerateResource.cache
