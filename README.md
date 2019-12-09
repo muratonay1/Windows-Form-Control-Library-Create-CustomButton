@@ -4,6 +4,14 @@ Windows Form Control Library ile Kişisel Buton Tasarımı
 
 - Kodların içerisine anlatıcı maksatli açıklamaları ekledim.
 - Dilediğiniz gibi kullanabilir, daha da kişiselleştirebilirsiniz.
+- Oluşturduğunuz butonu bir projenizde kullanmak için (ButtonDesign.dll) dosyasını projenizde ToolBox'a import etmeniz gerek.
+- İmport etme Adımları:
+  - Toolbox Penceresi içerisinde sağ tık ve 'Choose Items...' tıklayın
+  - .NET Framework Components sekmesi altında Browse tıklayın
+  - Oluşturduğunuz Buton projesi içerisinde bin/Debug altında ButtonDesign.dll dosyasını seçin ve Ok'a tıklayın.
+  - Benim projemdeki ButtonDesign.dll dosyasını kullanmak için dll dosyasını indirin ve aynı yolları deneyerek projenize ekleyin.
+  - Projenize ekledikten sonra normal buton gibi sürükle bırak yaparak butonu kullanabilirsiniz.
+- /ButtonDesign/bin/Debug/ButtonDesign.dll
 
 - Örnek olması maksadıyla birkaç resim ve gif'i aşağıya ekliyorum.
 
